@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>JavaApplication8</name>
+=======
+            <name>OOP4</name>
+>>>>>>> 38b08ddcda2b19b5273c5287a34ae1787ffc3a21
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
